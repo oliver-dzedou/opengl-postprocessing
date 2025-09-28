@@ -1,3 +1,3 @@
 # OpenGL Anti Aliasing
 
-Several anti-aliasing algorithms implemented using OpenGL and Raylib/Odin scaffolding
+Several postprocessing algorithms implemented using OpenGL and Raylib/Odin scaffolding
